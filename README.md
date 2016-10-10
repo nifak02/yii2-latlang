@@ -20,3 +20,12 @@ or add
 ```
 
 to the require section of your `composer.json` file.
+
+Usage :
+------------
+
+Refer to [https://github.com/ibrarturi/yii2-latlon-finder](https://github.com/ibrarturi/yii2-latlon-finder).
+
+I just adding for field province, Name, ID, Title, and Label for my project.
+
+Thanks to Ibrar Turi <ibrarturi@gmail.com>.
